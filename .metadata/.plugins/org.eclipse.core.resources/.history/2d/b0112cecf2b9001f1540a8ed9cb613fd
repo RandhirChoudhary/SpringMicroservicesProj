@@ -1,0 +1,5 @@
+package com.rk.api_gateway.logginFilter;
+
+public class LoggingFilter {
+
+}

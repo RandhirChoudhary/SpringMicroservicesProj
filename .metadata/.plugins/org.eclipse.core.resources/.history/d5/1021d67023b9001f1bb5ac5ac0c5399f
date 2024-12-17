@@ -1,0 +1,12 @@
+package com.rk.microserviceproj1_service.entity;
+
+import java.math.BigDecimal;
+
+public class CurrencyExchange {
+	private String id;
+	private String from;
+	private String to;
+	private BigDecimal conversionMultiple;
+	
+
+}

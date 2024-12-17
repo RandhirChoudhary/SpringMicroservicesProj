@@ -1,0 +1,5 @@
+package com.rk.microserviceproj2_service.proxy;
+
+public interface CurrencyConversionProxy {
+
+}

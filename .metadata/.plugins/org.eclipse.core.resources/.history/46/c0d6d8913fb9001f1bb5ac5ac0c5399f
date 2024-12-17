@@ -1,0 +1,15 @@
+package com.rk.microserviceproj2_service.proxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.rk.microserviceproj1_service.entity.CurrencyExchange;
+
+@FeignClient(name="microserviceproj1-service", url="localhost:8080")
+public interface CurrencyConversionProxy {
+	@GetMapping("/currency-exchange/from/{from}/to/{to}")
+	public CurrencyExchange getExchangeValue(@PathVariable String from, @PathVariable String to) {
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;property&apos; from expression &apos;environment.getProperty(&quot;local.server.port&quot;)&apos;&#x0D;&#x0A;- Original project: &apos;microserviceproj1-service&apos;&#x0D;&#x0A;- Variable name: &apos;property&apos;&#x0D;&#x0A;- Destination method: &apos;com.rk.microserviceproj1_service.controllers.CurrencyExchangeController.getExchangeValue()&apos;&#x0D;&#x0A;- Variable expression: &apos;environment.getProperty(&quot;local.server.port&quot;)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;property&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.rk.microserviceproj1_service.controllers{CurrencyExchangeController.java" name="property" replace="true" selection="820 45" stamp="1734076595919" version="1.0"/>
+</session>

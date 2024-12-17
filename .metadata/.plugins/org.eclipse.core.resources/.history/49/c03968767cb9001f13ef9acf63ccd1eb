@@ -1,0 +1,5 @@
+package com.rk.api_gateway.config;
+
+public class ApiGatewayConfiguration {
+
+}

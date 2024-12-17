@@ -1,0 +1,5 @@
+package com.rk.microserviceproj2_service.entity;
+
+public class CurrencyConversion {
+
+}

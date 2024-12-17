@@ -1,0 +1,8 @@
+package com.rk.microserviceproj2_service.proxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name="microserviceproj1-service")
+public interface CurrencyConversionProxy {
+
+}

@@ -1,0 +1,13 @@
+package com.rk.microserviceproj1_service.controllers;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class CurrencyExchangeController {
+
+	@GetMapping("")
+	public CurrencyExchange getExchangevalue() {
+		return null;
+	}
+}

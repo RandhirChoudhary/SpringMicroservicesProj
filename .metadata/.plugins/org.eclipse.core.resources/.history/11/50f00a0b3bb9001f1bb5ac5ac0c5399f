@@ -1,0 +1,5 @@
+CurrencyExchange
+http://localhost:8080/currency-exchange/from/USD/to/INR
+
+CurrencyConversion url
+http://localhost:8100/currency-exchange/from/{from}/to/{to}/quantity/{quantity}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.environment.Environment"/>
+<fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+<fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+<fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+<fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+<fullyQualifiedTypeName name="com.rk.microserviceproj1_service.entity.CurrencyExchange"/>
+<fullyQualifiedTypeName name="com.rk.microserviceproj1_service.repository.CurrencyExchangeRepository"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+<fullyQualifiedTypeName name="java.math.BigDecimal"/>
+<fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
+<fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.web.util.UriComponents.UriTemplateVariables"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
+<fullyQualifiedTypeName name="com.rk.microserviceproj2_service.entity.CurrencyConversion"/>
+<fullyQualifiedTypeName name="com.rk.microserviceproj2_service.proxy.CurrencyExchangeProxy"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.gateway.route.RouteLocator"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.gateway.route.builder.RouteLocatorBuilder"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.gateway.filter.GlobalFilter"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="com.rk.api_gateway.logginFilter.LoggingFilter"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
+<fullyQualifiedTypeName name="com.rk.microserviceproj1_service.controllers.CircuitBreakerController"/>
+<fullyQualifiedTypeName name="org.slf4j.Logger"/>
+<fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+<fullyQualifiedTypeName name="io.github.resilience4j.ratelimiter.annotation.RateLimiter"/>
+<fullyQualifiedTypeName name="io.github.resilience4j.bulkhead.annotation.Bulkhead"/>
+</qualifiedTypeNameHistroy>

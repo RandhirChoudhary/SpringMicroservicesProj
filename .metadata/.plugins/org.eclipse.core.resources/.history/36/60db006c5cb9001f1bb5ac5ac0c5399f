@@ -1,0 +1,13 @@
+CurrencyExchange url
+http://localhost:8080/currency-exchange/from/USD/to/INR
+
+CurrencyConversion url
+http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+Eureka server
+http://localhost:8761
+
+API Gateway url
+http://localhost:8765/MICROSERVICEPROJ1-SERVICE/currency-exchange/from/USD/to/INR
+
+http://localhost:8765/MICROSERVICEPROJ1-SERVICE/currency-conversion-feign/from/USD/to/INR/quantity/10
